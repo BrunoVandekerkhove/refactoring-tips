@@ -1,0 +1,1 @@
+An overview of refactoring tips (taken from Fowler, 1999).
